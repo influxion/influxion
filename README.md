@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Jordon here!
 ======================================================================================================================================
 
-* 🌍  Based in Canada
-* ✉️  You can contact me at [jordon@influxed.io](mailto:jordon@influxed.io)
+[![Linkedin Badge](https://img.shields.io/badge/-Justin%20Schellenberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/justin-schellenberg-667451160](https://www.linkedin.com/in/jordon-nichols/))](https://www.linkedin.com/in/justin-schellenberg-667451160) [![Gmail Badge](https://img.shields.io/badge/-jordon@influxed.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordon@influxed.io)](mailto:jordon@influxed.io) 
 
 ### Skills
 
